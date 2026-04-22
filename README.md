@@ -111,7 +111,7 @@ npm run dev
 ### 🔹 Class Diagram
 
 <p align="center">
-  <img src="images/d3.png" width="700"/>
+  <img src="images/d3.jpeg" width="700"/>
 </p>
 
 ---
