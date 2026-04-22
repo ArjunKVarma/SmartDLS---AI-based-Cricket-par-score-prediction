@@ -100,6 +100,21 @@ npm run dev
 
 ---
 
+## 📸 Architecture
+
+### 🔹 Implimentation Architecture
+
+<p align="center">
+  <img src="images/d1.png" width="800"/>
+</p>
+
+### 🔹 Class Diagram
+
+<p align="center">
+  <img src="images/d3.png" width="700"/>
+</p>
+
+---
 ## 📌 Future Improvements
 
 * Real-time match integration
